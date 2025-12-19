@@ -5,4 +5,4 @@
 # Projectinformation:
 KotCompass
 
-[logo-theBuggyLandlords](./frontend/assets/img/theBuggyLandlords.png)
+![logo-theBuggyLandlords](./frontend/assets/img/theBuggyLandlords.png)
